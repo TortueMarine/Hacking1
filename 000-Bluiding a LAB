@@ -1,0 +1,6 @@
+# How using a Hypervisor, such as VMware Workstation, can provide LAB VM connections to a live network or an isolated virtualized network.
+# How to configure networking in VMware Workstation, as part of a virtualized lab environment.
+# How to download, deploy, and update a Kali Linux VM as part of a lab test environment.
+# Downloading and deploying a vulnerable version of Linux, called Metasploitable, to your lab environment.
+# Adding Windows to a LAB
+# Configure a Static IP on Kali

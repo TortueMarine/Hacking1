@@ -1,0 +1,3 @@
+#What devices are sitting on the network and what services are they offering? 
+#It's a good question and one that the Nmap program can assist us in answering.
+#through the CLI, including options to gather OS identification and version information, as well as using Nmap with scripts.

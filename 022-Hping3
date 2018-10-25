@@ -1,0 +1,4 @@
+#A traditional PING uses ICMP and request/reply messages to verify connectivity between two devices over an IP network. 
+#But what if a firewall or the device itself is blocking the PING messages? 
+#What can be done? Have no fear, hping3 is here!
+#How TCP and/or UDP options can be used to verify reachability and round-trip time between two devices, even when ICMP isn't allowed.

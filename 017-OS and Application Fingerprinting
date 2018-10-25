@@ -1,0 +1,3 @@
+#Knowing the specific versions and flavors of an operating system 
+and/or application running on a host can lead to knowing which vulnerabilities may exist on that host.
+#Techniques, including banner grabbing, which can be used to collect that data.
